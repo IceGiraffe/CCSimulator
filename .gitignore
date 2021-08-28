@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# DIY
+ONRTC/
+Pypart/
+latest-update/
+.vscode/
